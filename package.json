@@ -1,0 +1,19 @@
+{
+  "name": "animated-header",
+  "version": "1.0.0",
+  "description": "animated header using vanilla JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joel-nambala/animated-header.git"
+  },
+  "author": "joel nambala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joel-nambala/animated-header/issues"
+  },
+  "homepage": "https://github.com/joel-nambala/animated-header#readme"
+}
